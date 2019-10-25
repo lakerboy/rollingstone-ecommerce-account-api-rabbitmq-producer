@@ -13,6 +13,7 @@ public class AccountDTO {
 	private String sex;
 	private String memberType;
 	private Date registrationDate;
+	
 	public long getId() {
 		return id;
 	}
